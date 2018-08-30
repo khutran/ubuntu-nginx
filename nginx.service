@@ -1,5 +1,5 @@
 [Unit]
-Description=The Nginx 1.14 service
+Description=The Nginx 1.13.8 service
 After=syslog.target network.target remote-fs.target nss-lookup.target
 
 [Service]
